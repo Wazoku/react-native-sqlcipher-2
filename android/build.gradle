@@ -31,6 +31,6 @@ repositories {
 }
 
 dependencies {
-    compile 'com.facebook.react:react-native:+'
-    compile 'net.zetetic:android-database-sqlcipher:3.5.9@aar'
+    implementation 'com.facebook.react:react-native:+'
+    implementation 'net.zetetic:android-database-sqlcipher:3.5.9@aar'
 }
